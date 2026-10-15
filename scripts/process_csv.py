@@ -45,6 +45,6 @@ with open(toc_csv_filename, newline='') as toc_csv:
       if not new_chapter:
         file.write("#")
       file.write(" " + row['title'] + "\n\n") 
-      file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="100%" height="600px"></iframe>\n\n')
+      file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="100%" height="900px"></iframe>\n\n')
 
 

@@ -1,4 +1,4 @@
 # The diminutive noun
 
-<iframe src="combined-toc.pdf#page=74" width="100%" height="600px"></iframe>
+<iframe src="combined-toc.pdf#page=74" width="100%" height="900px"></iframe>
 
