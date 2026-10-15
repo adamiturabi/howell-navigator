@@ -2,15 +2,20 @@ project:
   type: book
   output-dir: docs
 
+profile:
+  group:
+    - [basic]
+  default: basic
+
 book:
   title: "A Grammar of the Classical Arabic Language"
   author: "Mortimer Sloper Howell"
   date: now
-  chapters:
-    - index.qmd
-    - part: "Part I"
-      chapters:
-        - content/1-01.qmd
+  #chapters:
+  #  - index.qmd
+  #  - part: "Part I"
+  #    chapters:
+  #      - content/1-01.qmd
   description: |
     Translated and compiled from the works of the most approved native or naturalized authorities
   site-url: https://adamiturabi.github.io/howell-navigator/
