@@ -1,67 +1,61 @@
-,,Preface,,1,2
-,,Additions and corrections,,1,44
-,,Abbreviations of References,,1,45
-,,Chronological list of grammarians,,1,71
-,,Abbreviations of technical terms,,1,79
-,,Glossary of technical terms,,1,81
-,,Introduction,1,1
-1,1,The noun in general,2,1
-,2,The generic noun,3,2
-,3,The proper name,4,2
-,4,The inflected noun,15,3
-,,The nominatives,20,4
-,,The accusatives,39,8
-,,The genitives,110,18
-,,The appositives,131,20
-,5,The uninflected noun,159,26
-,,The pronouns,160,27
-,,The demonstratives,171,30
-,,The conjuncts,176,32
-,,The verbal nouns and ejaculations,187,36
-,,The uninflected adverbs,201,41
-,,The compounds,208,47
-,,The uninflected metonyms,216,48
-,6,The dual noun,228,50
-,7,The plural noun,234,52
-,8,The indeterminate noun and the determinate,262,70
-,9,The masculine noun and the feminine,263,71
-,10,The diminutive noun,274,74
-,11,The relative noun,294,88
-,12,The numeral noun,313,103
-,13,The abbreviated and prolonged nouns,326,109
-,14,The nouns connected with verbs,330,110
-,,The infinitive noun,331,111
-,,The active participle,343,118
-,,The passive participle,347,123
-,,The assimilate epithet,348,124
-,,The أَفْعَل of superiority,351,126
-,,The nouns of time and place,361,129
-,,The instrumental noun,366,130
-,15,The triliteral noun,368,131
-,16,The quadriliteral noun,392,133
-,17,The quinqueliteral noun,401,134
-2,1,The verb in general,402,135
-,2,The preterite,403,135
-,3,The aorist,404,135
-,,The indicative,408,135
-,,The subjunctive,410,136
-,,The apocopate,419,136
-,4,The imperative,429,137
-,5,The transitive and the intransitive,432,137
-,6,The passive,436,138
-,7,The mental and transmutative or factitive verbs,440,138
-,8,The non-attributive verbs,447,139
-,9,The verbs of appropinquation,459,141
-,10,The verbs of praise and blame,468,142
-,11,The two verbs of wonder,477,143
-,12,The triliteral verb,482,143
-,13,The quadriliteral verb,495,145
-3,1,The particle in general,497,145
-,2,The prepositions,498,146
-,3,The particles assimilated to the verb,516,147
-,4,The conjunctions,538,149
-,5,The negative particles,546,150
-,6,The premonitory particles,551,151
-,7,The vocative particles,554,151
-,8,The particles of assent and affirmation,556,151
-,9,The exceptive particles,559,151
+part,chapter,title,section_beg,section_end,toc_pagenum
+1,1,The noun in general,2,2,1
+,2,The generic noun,3,3,2
+,3,The proper name,4,14,2
+,4,The inflected noun,15,19,3
+,,The nominatives,20,38,4
+,,The accusatives,39,109,8
+,,The genitives,110,130,18
+,,The appositives,131,158,20
+,5,The uninflected noun,159,159,26
+,,The pronouns,160,170,27
+,,The demonstratives,171,175,30
+,,The conjuncts,176,186,32
+,,The verbal nouns and ejaculations,187,200,36
+,,The uninflected adverbs,201,207,41
+,,The compounds,208,215,47
+,,The uninflected metonyms,216,227,48
+,6,The dual noun,228,233,50
+,7,The plural noun,234,261,52
+,8,The indeterminate noun and the determinate,262,262,70
+,9,The masculine noun and the feminine,263,273,71
+,10,The diminutive noun,274,293,74
+,11,The relative noun,294,312,88
+,12,The numeral noun,313,325,103
+,13,The abbreviated and prolonged nouns,326,329,109
+,14,The nouns connected with verbs,330,330,110
+,,The infinitive noun,331,342,111
+,,The active participle,343,346,118
+,,The passive participle,347,347,123
+,,The assimilate epithet,348,350,124
+,,The أَفْعَل of superiority,351,360,126
+,,The nouns of time and place,361,365,129
+,,The instrumental noun,366,367,130
+,15,The triliteral noun,368,391,131
+,16,The quadriliteral noun,392,400,133
+,17,The quinqueliteral noun,401,401,134
+2,1,The verb in general,402,402,135
+,2,The preterite,403,403,135
+,3,The aorist,404,407,135
+,,The indicative,408,409,135
+,,The subjunctive,410,418,136
+,,The apocopate,419,428,136
+,4,The imperative,429,431,137
+,5,The transitive and the intransitive,432,435,137
+,6,The passive,436,439,138
+,7,The mental and transmutative or factitive verbs,440,446,138
+,8,The non-attributive verbs,447,458,139
+,9,The verbs of appropinquation,459,467,141
+,10,The verbs of praise and blame,468,476,142
+,11,The two verbs of wonder,477,481,143
+,12,The triliteral verb,482,494,143
+,13,The quadriliteral verb,495,496,145
+3,1,The particle in general,497,497,145
+,2,The prepositions,498,515,146
+,3,The particles assimilated to the verb,516,537,147
+,4,The conjunctions,538,545,149
+,5,The negative particles,546,550,150
+,6,The premonitory particles,551,553,151
+,7,The vocative particles,554,555,151
+,8,The particles of assent and affirmation,556,558,151
+,9,The exceptive particles,559,559,151

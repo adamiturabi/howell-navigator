@@ -1,8 +1,27 @@
 import sys
 import csv
+#,,Preface,,1,2
+#,,Additions and corrections,,1,44
+#,,Abbreviations of References,,1,45
+#,,Chronological list of grammarians,,1,71
+#,,Abbreviations of technical terms,,1,79
+#,,Glossary of technical terms,,1,81
+#,,Introduction,1,1
 
 toc_csv_filename = sys.argv[1]
 quarto_yaml_filename = '_quarto-basic.yml'
+fastnav_csv_filename = sys.argv[2]
+sec_pagenum_dict = {}
+
+with open(fastnav_csv_filename, newline='') as fastnav_csv:
+  csv_data = csv.DictReader(fastnav_csv, delimiter=',')
+  for row in csv_data:
+    sec_num = row.pop('sec_num', None)
+    assert(sec_num[0] == 'S')
+    assert(sec_num[-1] == '.')
+    sec_num = sec_num[1:-1]
+    sec_pagenum_dict[sec_num] = row
+  print(sec_pagenum_dict)
 
 with open(quarto_yaml_filename, "a", encoding="utf-8") as file:
   file.write('book:\n')
@@ -11,12 +30,13 @@ with open(quarto_yaml_filename, "a", encoding="utf-8") as file:
 
 with open(toc_csv_filename, newline='') as toc_csv:
   #csv_data = csv.reader(toc_csv, delimiter=',')
-  fieldnames = ['part', 'chapter', 'title', 'section', 'toc_pagenum']
-  csv_data = csv.DictReader(toc_csv, delimiter=',', fieldnames=fieldnames)
+  csv_data = csv.DictReader(toc_csv, delimiter=',')
 
   curr_chapter = ''
   curr_part = ''
   curr_subchapter = ''
+
+  sec_pagenum_dict_keys = list(sec_pagenum_dict.keys())
 
   for row in csv_data:
     print(row)
@@ -55,9 +75,32 @@ with open(toc_csv_filename, newline='') as toc_csv:
         file.write("---")
       file.write(row['title'] + " {.unnumbered}\n\n") 
 
+      section_beg = row['section_beg']
+      curr_key_idx = sec_pagenum_dict_keys.index(section_beg)
+      section_end = row['section_beg']
+      end_key_idx = sec_pagenum_dict_keys.index(section_end)
+      section_list_str = '<p><ul>'
+      while True:
+        curr_key = sec_pagenum_dict_keys[curr_key_idx]
+        section_list_str += '<li><a href='
+        section_list_str += 'https://archive.org/embed/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n132/mode/1up'
+        section_list_str += '>§' + curr_key + '</a></li>'
+        if curr_key_idx != end_key_idx:
+          break
+        curr_key_idx += 1
+
+      section_list_str += '</ul></p>'
+      #file.write(section_list_str)
+
       IDENTIFIER="howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n131/mode/1up"
-      file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n\n')
-      file.write('<iframe src="https://archive.org/embed/' + IDENTIFIER + '" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>')
+      iframe_str = '```{=html}\n'
+
+      iframe_str += '<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n'
+      iframe_str += '<iframe srcdoc="' + section_list_str + '" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
+      #iframe_str += '<iframe id="myembeddedframe" src="https://archive.org/embed/' + IDENTIFIER + '" width="54%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
+
+      iframe_str += '```\n\n'
+      file.write(iframe_str)
 
       #file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '&zoom=120" width="39%" height="900px"></iframe>\n\n')
       #file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '&zoom=page-width" width="59%" height="900px"></iframe>\n\n')
