@@ -8,9 +8,9 @@ book:
   date: now
   chapters:
     - index.qmd
-    - part: "Basics"
+    - part: "Part I"
       chapters:
-        - content/intro.qmd
+        - content/1-01.qmd
   description: |
     Translated and compiled from the works of the most approved native or naturalized authorities
   site-url: https://adamiturabi.github.io/howell-navigator/
