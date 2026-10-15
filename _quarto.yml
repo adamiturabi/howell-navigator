@@ -25,6 +25,8 @@ book:
   # sharing: [twitter]
   page-navigation: true
   search: true
+  sidebar:
+    collapse-level: 1
 
 website:
   reader-mode: true

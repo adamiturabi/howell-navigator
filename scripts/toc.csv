@@ -28,7 +28,7 @@ part,chapter,title,section_beg,section_end,toc_pagenum
 ,,The active participle,343,346,118
 ,,The passive participle,347,347,123
 ,,The assimilate epithet,348,350,124
-,,The أَفْعَل of superiority,351,360,126
+,,The [أَفْعَل]{.ar} of superiority,351,360,126
 ,,The nouns of time and place,361,365,129
 ,,The instrumental noun,366,367,130
 ,15,The triliteral noun,368,391,131
@@ -59,3 +59,36 @@ part,chapter,title,section_beg,section_end,toc_pagenum
 ,7,The vocative particles,554,555,151
 ,8,The particles of assent and affirmation,556,558,151
 ,9,The exceptive particles,559,559,151
+,10,The particles of Allocution,560,562,152
+,11,The connective or redundant particles,563,568,152
+,12,The expository particles,569,570,152
+,13,The infinitival particles,571,572,152
+,14,The excitative particles,573,574,153
+,15,The particle of approximation,575,577,153
+,16,The particles of futurity,578,580,153
+,17,The interrogative particles,581,584,153
+,18,The conditional particles,585,594,154
+,19,The causative particle,595,597,154
+,20,The particle of reprehension,598,598,155
+,21,The [ل]{.ar}s,599,606,155
+,22,The quiescent [ت]{.ar} of feminization,607,607,156
+,23,The [tanwIn]{.trn2},608,609,156
+,24,The corroborative [ن]{.ar},610,614,156
+,25,The [ه]{.ar} of silence,615,616,156
+,26,The [س]{.ar} and [ش]{.ar} of pause,617,617,157
+,27,The particle of disapproval,618,622,157
+,28,The particle of trying to remember,623,624,157
+4,1,Common processes in general,625,625,157
+,2,[#imAla]{.trn2},626,639,158
+,3,Pause,640,649,160
+,4,The oath,650,657,169
+,5,The alleviation of Hamza,658,662,175
+,6,The concurrence of two quiescents,663,666,182
+,7,The predicament of the initials of words,667,670,189
+,8,The augmentativeness of letters,671,681,194
+,9,The substitution of letters,682,696A,203
+,10,Transformation of the unsound,697,698,226
+,,The [و]{.ar} and [ي]{.ar} as [ف]{.ar}s,699,702,229
+,,The [و]{.ar} and [ي]{.ar} as [ع]{.ar}s,703,718,232
+,,The [و]{.ar} and [ي]{.ar} as [ل]{.ar}s,719,730A,246
+,11,Incorporation,731,759,256
