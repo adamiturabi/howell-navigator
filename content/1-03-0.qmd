@@ -1,0 +1,4 @@
+# 3 The proper name {.unnumbered}
+
+<iframe src="combined-toc.pdf#page=2" width="39%" height="900px"></iframe>
+

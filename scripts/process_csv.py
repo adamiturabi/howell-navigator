@@ -16,6 +16,7 @@ with open(toc_csv_filename, newline='') as toc_csv:
 
   curr_chapter = ''
   curr_part = ''
+  curr_subchapter = ''
 
   for row in csv_data:
     print(row)
@@ -29,22 +30,33 @@ with open(toc_csv_filename, newline='') as toc_csv:
     if row['chapter'] != '':
       curr_chapter = row['chapter']
       new_chapter = True
+      curr_subchapter = 0
+    else:
+      curr_subchapter += 1
 
-    chapter_filename = curr_part + '-' + curr_chapter.zfill(2) + '.qmd'
+    chapter_filename = curr_part + '-' + curr_chapter.zfill(2) + '-' + str(curr_subchapter) + '.qmd'
     print(chapter_filename)
 
     with open(quarto_yaml_filename, "a", encoding="utf-8") as file:
       if new_part:
         file.write('    - part: "Part ' + curr_part + '"\n')
         file.write('      chapters:\n')
-      if new_chapter:
-        file.write('        - "content/' + chapter_filename + '"\n')
+      #if new_chapter:
+      file.write('        - "content/' + chapter_filename + '"\n')
 
     with open('content/' + chapter_filename, "a", encoding="utf-8") as file:
       file.write("#")
-      if not new_chapter:
-        file.write("#")
-      file.write(" " + row['title'] + "\n\n") 
-      file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="100%" height="900px"></iframe>\n\n')
+      #if not new_chapter:
+      #  file.write("#")
+      file.write(" ")
+      if new_chapter:
+        file.write(curr_chapter + ' ')
+      else:
+        file.write("---")
+      file.write(row['title'] + " {.unnumbered}\n\n") 
+
+      file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n\n')
+      #file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '&zoom=120" width="39%" height="900px"></iframe>\n\n')
+      #file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '&zoom=page-width" width="59%" height="900px"></iframe>\n\n')
 
 
