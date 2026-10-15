@@ -46,9 +46,23 @@ with open(fastnav_csv_filename, newline='') as fastnav_csv:
   print(sec_pagenum_dict)
 
 with open(quarto_yaml_filename, "a", encoding="utf-8") as file:
-  file.write('book:\n')
-  file.write('  chapters:\n')
-  file.write('    - index.qmd\n')
+  #file.write('book:\n')
+  #file.write('  chapters:\n')
+  #file.write('    - index.qmd\n')
+  out_str = """
+book:
+  chapters:
+    - index.qmd
+    - part: "Frontmatter"
+      chapters:
+        - "content/preface.qmd"
+        - "content/abbrev_ref.qmd"
+        - "content/grammarians.qmd"
+        - "content/abbrev_tech.qmd"
+        - "content/gloss_tech.qmd"
+        - "content/intro.qmd"
+"""
+  file.write(out_str)
 
 with open(toc_csv_filename, newline='') as toc_csv:
   #csv_data = csv.reader(toc_csv, delimiter=',')

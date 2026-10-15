@@ -1,6 +1,15 @@
+
 book:
   chapters:
     - index.qmd
+    - part: "Frontmatter"
+      chapters:
+        - "content/preface.qmd"
+        - "content/abbrev_ref.qmd"
+        - "content/grammarians.qmd"
+        - "content/abbrev_tech.qmd"
+        - "content/gloss_tech.qmd"
+        - "content/intro.qmd"
     - part: "Part 1"
       chapters:
         - "content/1-01-0.qmd"
