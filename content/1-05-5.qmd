@@ -1,4 +1,7 @@
 # ---The uninflected adverbs {.unnumbered}
 
+```{=html}
 <iframe src="combined-toc.pdf#page=41" width="39%" height="900px"></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n256/mode/1up>§201</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n279/mode/1up>§202</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n283/mode/1up>§203</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n287/mode/1up>§204</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n313/mode/1up>§205</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n320/mode/1up>§206</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n339/mode/1up>§207</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
 

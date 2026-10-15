@@ -13,6 +13,28 @@ quarto_yaml_filename = '_quarto-basic.yml'
 fastnav_csv_filename = sys.argv[2]
 sec_pagenum_dict = {}
 
+def get_section_url(key):
+  values = sec_pagenum_dict[key]
+  url = "https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book"
+  url += values['book_num']
+
+  book_pagenums_dict = {
+    "1": "_1-498",
+    "2": "_499-861",
+    "3": "_862-1422",
+    "4": "_1423-1813",
+    "5": "_1-735",
+    "6": "_736-1662",
+    "7": "_1663-1850",
+  }
+  url += book_pagenums_dict[values['book_num']]
+  url += '#page/n'
+  pagenum = int(values['2013_pdf_pagenum'])
+  pagenum -= 1
+  url += str(pagenum)
+  url += '/mode/1up'
+  return url
+
 with open(fastnav_csv_filename, newline='') as fastnav_csv:
   csv_data = csv.DictReader(fastnav_csv, delimiter=',')
   for row in csv_data:
@@ -77,15 +99,16 @@ with open(toc_csv_filename, newline='') as toc_csv:
 
       section_beg = row['section_beg']
       curr_key_idx = sec_pagenum_dict_keys.index(section_beg)
-      section_end = row['section_beg']
+      section_end = row['section_end']
       end_key_idx = sec_pagenum_dict_keys.index(section_end)
       section_list_str = '<p><ul>'
       while True:
         curr_key = sec_pagenum_dict_keys[curr_key_idx]
         section_list_str += '<li><a href='
-        section_list_str += 'https://archive.org/embed/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n132/mode/1up'
+        section_list_str += get_section_url(curr_key)
+        #section_list_str += 'https://archive.org/embed/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n132/mode/1up'
         section_list_str += '>§' + curr_key + '</a></li>'
-        if curr_key_idx != end_key_idx:
+        if curr_key_idx == end_key_idx:
           break
         curr_key_idx += 1
 

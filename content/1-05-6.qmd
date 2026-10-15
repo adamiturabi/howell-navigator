@@ -1,4 +1,7 @@
 # ---The compounds {.unnumbered}
 
+```{=html}
 <iframe src="combined-toc.pdf#page=47" width="39%" height="900px"></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n346/mode/1up>§208</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n347/mode/1up>§209</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n348/mode/1up>§210</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n349/mode/1up>§211</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n353/mode/1up>§212</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n355/mode/1up>§213</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n355/mode/1up>§214</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861#page/n356/mode/1up>§215</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+```
 
