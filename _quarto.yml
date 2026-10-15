@@ -24,7 +24,7 @@ book:
   repo-actions: [issue]
   # sharing: [twitter]
   page-navigation: true
-  search: true
+  search: false
   sidebar:
     collapse-level: 1
 
