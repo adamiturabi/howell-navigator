@@ -55,7 +55,10 @@ with open(toc_csv_filename, newline='') as toc_csv:
         file.write("---")
       file.write(row['title'] + " {.unnumbered}\n\n") 
 
+      IDENTIFIER="howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n131/mode/1up"
       file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n\n')
+      file.write('<iframe src="https://archive.org/embed/' + IDENTIFIER + '" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>')
+
       #file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '&zoom=120" width="39%" height="900px"></iframe>\n\n')
       #file.write('<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '&zoom=page-width" width="59%" height="900px"></iframe>\n\n')
 
