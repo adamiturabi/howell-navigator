@@ -17,14 +17,10 @@ book:
   #  - part: "Part I"
   #    chapters:
   #      - content/1-01.qmd
-  subtitle: "Translated and compiled from the works of the most approved native or naturalized authorities."
+  subtitle: "Translated and compiled from the works of the most approved native or naturalized authorities"
   description: |
     | [published]{.smallcaps}
-    | [under the authority of the government, n.-w. provinces.]{.smallcaps}
-    | [in an introduction and four parts.]{.smallcaps}
-    | [allahabad: ]{.smallcaps}
-    | [printed at the north-western provinces and oudh government press,]{.smallcaps}
-    | 1880--1911.
+    | Allahabad: 1880--1911
   site-url: https://adamiturabi.github.io/howell-navigator/
   repo-url: https://github.com/adamiturabi/howell-navigator
   repo-branch: main
