@@ -1,4 +1,4 @@
-# 12 The expository particles {.unnumbered}
+# 12 The expository particles §569--§570 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=152" width="39%" height="900px"></iframe>

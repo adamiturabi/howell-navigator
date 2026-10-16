@@ -1,4 +1,4 @@
-# 5 The transitive and the intransitive {.unnumbered}
+# 5 The transitive and the intransitive §432--§435 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=137" width="39%" height="900px"></iframe>

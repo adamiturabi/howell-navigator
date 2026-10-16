@@ -1,4 +1,4 @@
-# ---The nominatives {.unnumbered}
+# ---The nominatives §20--§38 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=4" width="39%" height="900px"></iframe>

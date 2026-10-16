@@ -1,4 +1,4 @@
-# 6 The concurrence of two quiescents {.unnumbered}
+# 6 The concurrence of two quiescents §663--§666 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=182" width="39%" height="900px"></iframe>

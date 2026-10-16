@@ -1,4 +1,4 @@
-# ---The [و]{.ar} and [ي]{.ar} as [ف]{.ar}s {.unnumbered}
+# ---The [و]{.ar} and [ي]{.ar} as [ف]{.ar}s §699--§702 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=229" width="39%" height="900px"></iframe>

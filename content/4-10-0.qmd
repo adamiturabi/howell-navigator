@@ -1,4 +1,4 @@
-# 10 Transformation of the unsound {.unnumbered}
+# 10 Transformation of the unsound §697--§698 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=226" width="39%" height="900px"></iframe>

@@ -1,4 +1,4 @@
-# 12 The triliteral verb {.unnumbered}
+# 12 The triliteral verb §482--§494A {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=143" width="39%" height="900px"></iframe>

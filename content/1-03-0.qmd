@@ -1,4 +1,4 @@
-# 3 The proper name {.unnumbered}
+# 3 The proper name §4--§14 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=2" width="39%" height="900px"></iframe>

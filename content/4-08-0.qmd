@@ -1,4 +1,4 @@
-# 8 The augmentativeness of letters {.unnumbered}
+# 8 The augmentativeness of letters §671--§681A {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=194" width="39%" height="900px"></iframe>

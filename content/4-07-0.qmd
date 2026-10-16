@@ -1,4 +1,4 @@
-# 7 The predicament of the initials of words {.unnumbered}
+# 7 The predicament of the initials of words §667--§670 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=189" width="39%" height="900px"></iframe>

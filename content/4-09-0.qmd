@@ -1,4 +1,4 @@
-# 9 The substitution of letters {.unnumbered}
+# 9 The substitution of letters §682--§696A {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=203" width="39%" height="900px"></iframe>

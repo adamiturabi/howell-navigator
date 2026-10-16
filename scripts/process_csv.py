@@ -12,6 +12,7 @@ toc_csv_filename = sys.argv[1]
 quarto_yaml_filename = '_quarto-basic.yml'
 fastnav_csv_filename = sys.argv[2]
 sec_pagenum_dict = {}
+part_names = {"1": "The noun", "2": "The  verb", "3": "The particle", "4": "The common processes" }
 
 def get_section_url(key):
   values = sec_pagenum_dict[key]
@@ -93,7 +94,7 @@ with open(toc_csv_filename, newline='') as toc_csv:
 
     with open(quarto_yaml_filename, "a", encoding="utf-8") as file:
       if new_part:
-        file.write('    - part: "Part ' + curr_part + '"\n')
+        file.write('    - part: "Part ' + curr_part + ': ' + part_names[curr_part] + '"\n')
         file.write('      chapters:\n')
       #if new_chapter:
       file.write('        - "content/' + chapter_filename + '"\n')
@@ -107,13 +108,18 @@ with open(toc_csv_filename, newline='') as toc_csv:
         file.write(curr_chapter + ' ')
       else:
         file.write("---")
-      file.write(row['title'] + " {.unnumbered}\n\n") 
+
+      section_beg = row['section_beg']
+      section_end = row['section_end']
+      title_section_str = '§' + section_beg
+      if section_beg != section_end:
+        title_section_str += '--§' + section_end
+
+      file.write(row['title'] + " " + title_section_str + " {.unnumbered}\n\n") 
 
       iframe_str = '```{=html}\n'
       iframe_str += '<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n'
 
-      section_beg = row['section_beg']
-      section_end = row['section_end']
       if section_beg == section_end:
         # automatically open section
         section_url = get_section_url(section_beg)

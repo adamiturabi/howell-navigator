@@ -26,3 +26,7 @@ It will open a chapter page with two frames:
       And click on the link for your desired section number to open it in that frame.
       In order to go back to the clickable section list, click the back button on your browser.
 
+## Notes regarding the text
+
+Numbers in square brackets in running text, for example "[402]", are a cross-reference to that section number.
+

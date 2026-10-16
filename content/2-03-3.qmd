@@ -1,4 +1,4 @@
-# ---The apocopate {.unnumbered}
+# ---The apocopate §419--§428 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=136" width="39%" height="900px"></iframe>

@@ -1,4 +1,4 @@
-# 23 The [tanwIn]{.trn2} {.unnumbered}
+# 23 The [tanwIn]{.trn2} §608--§609 {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=156" width="39%" height="900px"></iframe>
