@@ -13,6 +13,11 @@ Aasim Iqbal
 ([جزاه الله خيرًا]{.ar}) published on his
 [site](https://revivearabic.blogspot.com/2016/03/grammar-classical-arabic-language-howell-arabicgrammar-pdf.html).
 
+For an interesting read on Howell's methodology vis-a-vis contemporary trends in the Western study of Arabic grammar, see:
+
++ Jean-Patrick Guillaume, "Deux grammaires de l’arabe à contre-courant: A Grammar of the Classical Arabic Language de M.\ S. Howell et la Grammaire arabe composée d’après les sources primitives de D.\ Vernier," in _Documenter et décrire les langues d'Asie: Histoire et épistémologie_. 
+  <https://books.openedition.org/shesl/10369?lang=en>
+
 ## How to use this web-book
 
 In order to use this web-book, first navigate to the chapter from the sidebar on the left.
@@ -28,5 +33,6 @@ It will open a chapter page with two frames:
 
 ## Notes regarding the text
 
-Numbers in square brackets in running text, for example "[402]", are a cross-reference to that section number.
++ Numbers in square brackets in running text, for example "[402]", are a cross-reference to that section number.
++ Howell's own opinions are within brackets.
 
