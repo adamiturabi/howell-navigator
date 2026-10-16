@@ -10,7 +10,7 @@ profile:
 book:
   title: "Howell's A Grammar of the Classical Arabic Language"
   author: "Mortimer Sloper Howell"
-  date: 1883
+  date: "1883"
   #chapters:
   #  - index.qmd
   #  - part: "Part I"

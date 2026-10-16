@@ -56,6 +56,7 @@ book:
     - part: "Frontmatter"
       chapters:
         - "content/preface.qmd"
+        - "content/add_corr.qmd"
         - "content/abbrev_ref.qmd"
         - "content/grammarians.qmd"
         - "content/abbrev_tech.qmd"
