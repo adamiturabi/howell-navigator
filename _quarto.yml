@@ -10,14 +10,21 @@ profile:
 book:
   title: "Howell's A Grammar of the Classical Arabic Language"
   author: "Mortimer Sloper Howell"
-  date: "1911"
-  date-format: "YYYY"
+  #date: "1911"
+  #date-format: "YYYY"
   #chapters:
   #  - index.qmd
   #  - part: "Part I"
   #    chapters:
   #      - content/1-01.qmd
   subtitle: "Translated and compiled from the works of the most approved native or naturalized authorities"
+  description: |
+    | [published]{.smallcaps}
+    | [under the authority of the government, n.-w. provinces]{.smallcaps}
+    | [in an introduction and four parts]{.smallcaps}
+    | [allahabad: ]{.smallcaps}
+    | [printed at the north-western provinces and oudh government press]{.smallcaps}
+    | 1880--1911
   site-url: https://adamiturabi.github.io/howell-navigator/
   repo-url: https://github.com/adamiturabi/howell-navigator
   repo-branch: main
