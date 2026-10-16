@@ -1,7 +1,7 @@
-# ---The nouns of time and place §361--§365 {.unnumbered}
+# ---The nouns of time and place (§§\ 361--365) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=129" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n364/mode/1up>§361</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n367/mode/1up>§362</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n369/mode/1up>§363</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n370/mode/1up>§364</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n374/mode/1up>§365</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n364/mode/1up>§&nbsp361</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n367/mode/1up>§&nbsp362</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n369/mode/1up>§&nbsp363</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n370/mode/1up>§&nbsp364</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n374/mode/1up>§&nbsp365</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

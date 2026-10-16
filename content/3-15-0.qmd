@@ -1,7 +1,7 @@
-# 15 The particle of approximation §575--§577 {.unnumbered}
+# 15 The particle of approximation (§§\ 575--577) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=153" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n663/mode/1up>§575</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n668/mode/1up>§576</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n669/mode/1up>§577</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n663/mode/1up>§&nbsp575</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n668/mode/1up>§&nbsp576</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n669/mode/1up>§&nbsp577</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

@@ -1,7 +1,7 @@
-# ---The indicative §408--§409 {.unnumbered}
+# ---The indicative (§§\ 408--409) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=135" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n76/mode/1up>§408</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n77/mode/1up>§409</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n76/mode/1up>§&nbsp408</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n77/mode/1up>§&nbsp409</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

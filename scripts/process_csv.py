@@ -12,7 +12,7 @@ toc_csv_filename = sys.argv[1]
 quarto_yaml_filename = '_quarto-basic.yml'
 fastnav_csv_filename = sys.argv[2]
 sec_pagenum_dict = {}
-part_names = {"1": "The noun", "2": "The  verb", "3": "The particle", "4": "The common processes" }
+part_names = {"1": "The noun (§§\\ 2--401)", "2": "The  verb (§§\\ 402--496A)", "3": "The particle (§§\\ 497--624)", "4": "The common processes (§§\\ 625--759)" }
 
 def get_section_url(key):
   values = sec_pagenum_dict[key]
@@ -111,11 +111,11 @@ with open(toc_csv_filename, newline='') as toc_csv:
 
       section_beg = row['section_beg']
       section_end = row['section_end']
-      title_section_str = '§' + section_beg
+      title_section_str = '§\\ ' + section_beg
       if section_beg != section_end:
-        title_section_str += '--§' + section_end
+        title_section_str = '§' + title_section_str + '--' + section_end
 
-      file.write(row['title'] + " " + title_section_str + " {.unnumbered}\n\n") 
+      file.write(row['title'] + " (" + title_section_str + ") {.unnumbered}\n\n") 
 
       iframe_str = '```{=html}\n'
       iframe_str += '<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n'
@@ -134,7 +134,7 @@ with open(toc_csv_filename, newline='') as toc_csv:
           section_list_str += '<li><a href='
           section_list_str += get_section_url(curr_key)
           #section_list_str += 'https://archive.org/embed/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n132/mode/1up'
-          section_list_str += '>§' + curr_key + '</a></li>'
+          section_list_str += '>§&nbsp' + curr_key + '</a></li>'
           if curr_key_idx == end_key_idx:
             break
           curr_key_idx += 1

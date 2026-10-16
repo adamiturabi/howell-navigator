@@ -1,7 +1,7 @@
-# 10 Transformation of the unsound §697--§698 {.unnumbered}
+# 10 Transformation of the unsound (§§\ 697--698) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=226" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n798/mode/1up>§697</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n809/mode/1up>§698</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n798/mode/1up>§&nbsp697</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n809/mode/1up>§&nbsp698</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

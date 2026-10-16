@@ -1,4 +1,4 @@
-# 8 The indeterminate noun and the determinate §262 {.unnumbered}
+# 8 The indeterminate noun and the determinate (§\ 262) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=70" width="39%" height="900px"></iframe>

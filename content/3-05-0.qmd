@@ -1,7 +1,7 @@
-# 5 The negative particles §546--§550 {.unnumbered}
+# 5 The negative particles (§§\ 546--550) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=150" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n581/mode/1up>§546</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n583/mode/1up>§547</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n594/mode/1up>§548</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n598/mode/1up>§549</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n600/mode/1up>§550</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n581/mode/1up>§&nbsp546</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n583/mode/1up>§&nbsp547</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n594/mode/1up>§&nbsp548</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n598/mode/1up>§&nbsp549</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n600/mode/1up>§&nbsp550</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

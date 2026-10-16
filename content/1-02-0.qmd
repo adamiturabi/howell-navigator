@@ -1,4 +1,4 @@
-# 2 The generic noun §3 {.unnumbered}
+# 2 The generic noun (§\ 3) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=2" width="39%" height="900px"></iframe>

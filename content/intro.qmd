@@ -1,4 +1,4 @@
-# Introduction {.unnumbered}
+# Introduction (§\ 1) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=1" width="39%" height="900px"></iframe>

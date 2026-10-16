@@ -1,4 +1,4 @@
-# 17 The quinqueliteral noun §401 {.unnumbered}
+# 17 The quinqueliteral noun (§\ 401) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=134" width="39%" height="900px"></iframe>

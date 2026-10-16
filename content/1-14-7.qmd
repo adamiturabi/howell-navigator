@@ -1,7 +1,7 @@
-# ---The instrumental noun §366--§367 {.unnumbered}
+# ---The instrumental noun (§§\ 366--367) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=130" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n376/mode/1up>§366</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n378/mode/1up>§367</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n376/mode/1up>§&nbsp366</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n378/mode/1up>§&nbsp367</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

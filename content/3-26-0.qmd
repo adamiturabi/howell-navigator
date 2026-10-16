@@ -1,4 +1,4 @@
-# 26 The [س]{.ar} and [ش]{.ar} of pause §617 {.unnumbered}
+# 26 The [س]{.ar} and [ش]{.ar} of pause (§\ 617) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=157" width="39%" height="900px"></iframe>

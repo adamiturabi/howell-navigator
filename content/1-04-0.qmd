@@ -1,7 +1,7 @@
-# 4 The inflected noun §15--§19 {.unnumbered}
+# 4 The inflected noun (§§\ 15--19) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=3" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n192/mode/1up>§15</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n192/mode/1up>§16</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n201/mode/1up>§17</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n204/mode/1up>§18</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n217/mode/1up>§19</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n192/mode/1up>§&nbsp15</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n192/mode/1up>§&nbsp16</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n201/mode/1up>§&nbsp17</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n204/mode/1up>§&nbsp18</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n217/mode/1up>§&nbsp19</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

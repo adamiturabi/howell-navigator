@@ -1,7 +1,7 @@
-# 13 The abbreviated and prolonged nouns §326--§329A {.unnumbered}
+# 13 The abbreviated and prolonged nouns (§§\ 326--329A) {.unnumbered}
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=109" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n123/mode/1up>§326</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n124/mode/1up>§327</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n127/mode/1up>§328</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n129/mode/1up>§329</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n129/mode/1up>§329A</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n123/mode/1up>§&nbsp326</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n124/mode/1up>§&nbsp327</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n127/mode/1up>§&nbsp328</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n129/mode/1up>§&nbsp329</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n129/mode/1up>§&nbsp329A</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 
