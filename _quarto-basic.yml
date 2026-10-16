@@ -11,7 +11,7 @@ book:
         - "content/abbrev_tech.qmd"
         - "content/gloss_tech.qmd"
     - "content/intro.qmd"
-    - part: "Part 1: The noun (§§\ 2--401)"
+    - part: "Part 1: The noun (§§ 2--401)"
       chapters:
         - "content/1-01-0.qmd"
         - "content/1-02-0.qmd"
@@ -48,7 +48,7 @@ book:
         - "content/1-15-0.qmd"
         - "content/1-16-0.qmd"
         - "content/1-17-0.qmd"
-    - part: "Part 2: The  verb (§§\ 402--496A)"
+    - part: "Part 2: The  verb (§§ 402--496A)"
       chapters:
         - "content/2-01-0.qmd"
         - "content/2-02-0.qmd"
@@ -66,7 +66,7 @@ book:
         - "content/2-11-0.qmd"
         - "content/2-12-0.qmd"
         - "content/2-13-0.qmd"
-    - part: "Part 3: The particle (§§\ 497--624)"
+    - part: "Part 3: The particle (§§ 497--624)"
       chapters:
         - "content/3-01-0.qmd"
         - "content/3-02-0.qmd"
@@ -96,7 +96,7 @@ book:
         - "content/3-26-0.qmd"
         - "content/3-27-0.qmd"
         - "content/3-28-0.qmd"
-    - part: "Part 4: The common processes (§§\ 625--759)"
+    - part: "Part 4: The common processes (§§ 625--759)"
       chapters:
         - "content/4-01-0.qmd"
         - "content/4-02-0.qmd"

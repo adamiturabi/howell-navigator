@@ -12,7 +12,7 @@ toc_csv_filename = sys.argv[1]
 quarto_yaml_filename = '_quarto-basic.yml'
 fastnav_csv_filename = sys.argv[2]
 sec_pagenum_dict = {}
-part_names = {"1": "The noun (§§\\ 2--401)", "2": "The  verb (§§\\ 402--496A)", "3": "The particle (§§\\ 497--624)", "4": "The common processes (§§\\ 625--759)" }
+part_names = {"1": "The noun (§§ 2--401)", "2": "The  verb (§§ 402--496A)", "3": "The particle (§§ 497--624)", "4": "The common processes (§§ 625--759)" }
 
 def get_section_url(key):
   values = sec_pagenum_dict[key]
