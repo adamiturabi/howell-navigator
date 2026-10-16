@@ -1,22 +1,24 @@
 # About this project {.unnumbered}
 
-[بسم الله الرحمن الرحيم]{.ar}
+[بسم الله الرحمن الرحيم]{.aralt}
 
 This is a [Quarto](https://quarto.org/) book that aims to make
-Howell's _A grammar of the Classical Arabic Language_ more navigable.
+Howell's _A Grammar of the Classical Arabic Language_ more navigable.
 
-It reuses files and links from
+The original work was published from 1880--1911.
+The scanned PDFs are located at: <https://archive.org/details/howellarabicgrammar2013>.
+
+For links to the individual sections, I build upon the work done by
 Aasim Iqbal
-([جزاه الله خيرًا]{.ar})'s 
-site: <https://revivearabic.blogspot.com/2016/03/grammar-classical-arabic-language-howell-arabicgrammar-pdf.html>
+([جزاه الله خيرًا]{.ar}) published on his
+[site](https://revivearabic.blogspot.com/2016/03/grammar-classical-arabic-language-howell-arabicgrammar-pdf.html).
 
-In order to use, first navigate to the chapter from the sidebar on the left.
-
+In order to use this web-book, first navigate to the chapter from the sidebar on the left.
 It will open a chapter page with two frames:
 
-The frame on the left is an embedded PDF on the combined table of contents.
+1. The frame on the left is an embedded PDF on the combined table of contents.
 Scroll through it to determine your desired section number.
 
-Click on your desired section number in the frame on the right to open it in that frame.
+2. Click on your desired section number in the frame on the right to open it in that frame.
 In order to go back to the clickable section list, click the back button on your browser.
 
