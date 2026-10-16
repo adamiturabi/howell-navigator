@@ -18,7 +18,7 @@ Aasim Iqbal
 In order to use this web-book, first navigate to the chapter from the sidebar on the left.
 It will open a chapter page with two frames:
 
-1. The frame on the left is an embedded PDF on the combined table of contents (ToC).
+1. The frame on the left is an embedded PDF of the combined table of contents (ToC).
 2. The frame on the right either:
    a. Opens the Toc for that chapter, if it has only one section. 
    b. Or it lists links to the sections contained in that chapter.
