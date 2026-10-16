@@ -5,10 +5,10 @@ part,chapter,title,section_beg,section_end,toc_pagenum
 ,4,The inflected noun,15,19,3
 ,,The nominatives,20,38,4
 ,,The accusatives,39,109,8
-,,The genitives,110,130,18
+,,The genitives,110,130A,18
 ,,The appositives,131,158,20
 ,5,The uninflected noun,159,159,26
-,,The pronouns,160,170,27
+,,The pronouns,160,170A,27
 ,,The demonstratives,171,175,30
 ,,The conjuncts,176,186,32
 ,,The verbal nouns and ejaculations,187,200,36
@@ -21,11 +21,11 @@ part,chapter,title,section_beg,section_end,toc_pagenum
 ,9,The masculine noun and the feminine,263,273,71
 ,10,The diminutive noun,274,293,74
 ,11,The relative noun,294,312,88
-,12,The numeral noun,313,325,103
-,13,The abbreviated and prolonged nouns,326,329,109
+,12,The numeral noun,313,325B,103
+,13,The abbreviated and prolonged nouns,326,329A,109
 ,14,The nouns connected with verbs,330,330,110
-,,The infinitive noun,331,342,111
-,,The active participle,343,346,118
+,,The infinitive noun,331,342A,111
+,,The active participle,343,346B,118
 ,,The passive participle,347,347,123
 ,,The assimilate epithet,348,350,124
 ,,The [أَفْعَل]{.ar} of superiority,351,360,126
@@ -38,7 +38,7 @@ part,chapter,title,section_beg,section_end,toc_pagenum
 ,2,The preterite,403,403,135
 ,3,The aorist,404,407,135
 ,,The indicative,408,409,135
-,,The subjunctive,410,418,136
+,,The subjunctive,410,418A,136
 ,,The apocopate,419,428,136
 ,4,The imperative,429,431,137
 ,5,The transitive and the intransitive,432,435,137
@@ -48,8 +48,8 @@ part,chapter,title,section_beg,section_end,toc_pagenum
 ,9,The verbs of appropinquation,459,467,141
 ,10,The verbs of praise and blame,468,476,142
 ,11,The two verbs of wonder,477,481,143
-,12,The triliteral verb,482,494,143
-,13,The quadriliteral verb,495,496,145
+,12,The triliteral verb,482,494A,143
+,13,The quadriliteral verb,495,496A,145
 3,1,The particle in general,497,497,145
 ,2,The prepositions,498,515,146
 ,3,The particles assimilated to the verb,516,537,147
@@ -85,7 +85,7 @@ part,chapter,title,section_beg,section_end,toc_pagenum
 ,5,The alleviation of Hamza,658,662,175
 ,6,The concurrence of two quiescents,663,666,182
 ,7,The predicament of the initials of words,667,670,189
-,8,The augmentativeness of letters,671,681,194
+,8,The augmentativeness of letters,671,681A,194
 ,9,The substitution of letters,682,696A,203
 ,10,Transformation of the unsound,697,698,226
 ,,The [و]{.ar} and [ي]{.ar} as [ف]{.ar}s,699,702,229
