@@ -109,30 +109,34 @@ with open(toc_csv_filename, newline='') as toc_csv:
         file.write("---")
       file.write(row['title'] + " {.unnumbered}\n\n") 
 
-      section_beg = row['section_beg']
-      curr_key_idx = sec_pagenum_dict_keys.index(section_beg)
-      section_end = row['section_end']
-      end_key_idx = sec_pagenum_dict_keys.index(section_end)
-      section_list_str = '<p><ul>'
-      while True:
-        curr_key = sec_pagenum_dict_keys[curr_key_idx]
-        section_list_str += '<li><a href='
-        section_list_str += get_section_url(curr_key)
-        #section_list_str += 'https://archive.org/embed/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n132/mode/1up'
-        section_list_str += '>§' + curr_key + '</a></li>'
-        if curr_key_idx == end_key_idx:
-          break
-        curr_key_idx += 1
-
-      section_list_str += '</ul></p>'
-      #file.write(section_list_str)
-
-      IDENTIFIER="howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n131/mode/1up"
       iframe_str = '```{=html}\n'
-
       iframe_str += '<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n'
-      iframe_str += '<iframe srcdoc="' + section_list_str + '" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
-      #iframe_str += '<iframe id="myembeddedframe" src="https://archive.org/embed/' + IDENTIFIER + '" width="54%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
+
+      section_beg = row['section_beg']
+      section_end = row['section_end']
+      if section_beg == section_end:
+        # automatically open section
+        section_url = get_section_url(section_beg)
+        iframe_str += '<iframe src="' + section_url + '" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
+      else:
+        # present section list
+        curr_key_idx = sec_pagenum_dict_keys.index(section_beg)
+        end_key_idx = sec_pagenum_dict_keys.index(section_end)
+        section_list_str = '<p><ul>'
+        while True:
+          curr_key = sec_pagenum_dict_keys[curr_key_idx]
+          section_list_str += '<li><a href='
+          section_list_str += get_section_url(curr_key)
+          #section_list_str += 'https://archive.org/embed/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n132/mode/1up'
+          section_list_str += '>§' + curr_key + '</a></li>'
+          if curr_key_idx == end_key_idx:
+            break
+          curr_key_idx += 1
+
+        section_list_str += '</ul></p>'
+        #file.write(section_list_str)
+
+        iframe_str += '<iframe srcdoc="' + section_list_str + '" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
 
       iframe_str += '```\n\n'
       file.write(iframe_str)

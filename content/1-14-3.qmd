@@ -2,6 +2,6 @@
 
 ```{=html}
 <iframe src="combined-toc.pdf#page=123" width="39%" height="900px"></iframe>
-<iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n272/mode/1up>§347</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n272/mode/1up" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 
