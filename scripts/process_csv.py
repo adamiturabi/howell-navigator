@@ -59,7 +59,7 @@ book:
         - "content/grammarians.qmd"
         - "content/abbrev_tech.qmd"
         - "content/gloss_tech.qmd"
-        - "content/intro.qmd"
+    - "content/intro.qmd"
 """
   file.write(out_str)
 

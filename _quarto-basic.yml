@@ -10,7 +10,7 @@ book:
         - "content/grammarians.qmd"
         - "content/abbrev_tech.qmd"
         - "content/gloss_tech.qmd"
-        - "content/intro.qmd"
+    - "content/intro.qmd"
     - part: "Part 1: The noun (§§\ 2--401)"
       chapters:
         - "content/1-01-0.qmd"
