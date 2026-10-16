@@ -3,7 +3,7 @@
 [بسم الله الرحمن الرحيم]{.aralt}
 
 This is a [Quarto](https://quarto.org/) book that aims to make
-Howell's _A Grammar of the Classical Arabic Language_ more navigable.
+Howell's _A Grammar of the Classical Arabic Language_ ([Wikipedia entry](https://en.wikipedia.org/wiki/Mortimer_Sloper_Howell#The_Grammar)) more navigable.
 
 The original work was published from 1880--1911.
 The scanned PDFs are located at: <https://archive.org/details/howellarabicgrammar2013>.

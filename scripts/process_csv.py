@@ -43,12 +43,9 @@ with open(fastnav_csv_filename, newline='') as fastnav_csv:
     assert(sec_num[-1] == '.')
     sec_num = sec_num[1:-1]
     sec_pagenum_dict[sec_num] = row
-  print(sec_pagenum_dict)
+  #print(sec_pagenum_dict)
 
 with open(quarto_yaml_filename, "a", encoding="utf-8") as file:
-  #file.write('book:\n')
-  #file.write('  chapters:\n')
-  #file.write('    - index.qmd\n')
   out_str = """
 book:
   chapters:
@@ -76,7 +73,7 @@ with open(toc_csv_filename, newline='') as toc_csv:
   sec_pagenum_dict_keys = list(sec_pagenum_dict.keys())
 
   for row in csv_data:
-    print(row)
+    #print(row)
     new_part = False
     new_chapter = False
 
@@ -92,7 +89,7 @@ with open(toc_csv_filename, newline='') as toc_csv:
       curr_subchapter += 1
 
     chapter_filename = curr_part + '-' + curr_chapter.zfill(2) + '-' + str(curr_subchapter) + '.qmd'
-    print(chapter_filename)
+    #print(chapter_filename)
 
     with open(quarto_yaml_filename, "a", encoding="utf-8") as file:
       if new_part:
