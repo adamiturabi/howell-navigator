@@ -2,14 +2,21 @@
 
 [بسم الله الرحمن الرحيم]{.aralt}
 
-This is a [Quarto](https://quarto.org/) book that aims to make
-Howell's _A Grammar of the Classical Arabic Language_ ([Wikipedia entry](https://en.wikipedia.org/wiki/Mortimer_Sloper_Howell#The_Grammar)) more navigable.
+Mortimer Sloper Howell
+([Wikipedia entry](https://en.wikipedia.org/wiki/Mortimer_Sloper_Howell))
+published his
+_A Grammar of the Classical Arabic Language_
+from 1880--1911.
 
-The original work was published from 1880--1911.
-The scanned PDFs are located at: <https://archive.org/details/howellarabicgrammar2013>.
-Here is the breakdown of the parts and sections into the individually bound books:
+It has more than 4000 pages printed across 7 books.
+The scanned PDFs are hosted at: <https://archive.org/details/howellarabicgrammar2013>.
 
-+ Volume 1 (Part\ 1, printed pp.\ 1--1813)
+This [Quarto](https://quarto.org/) book aims to make
+his work more navigable.
+
+Here is a summary breakdown of the parts and sections into the individually bound books:
+
++ Volume 1 (Part\ 1, pp.\ 1--1813)
   + Book 1 (Part\ 1, Fasciculus\ 1):
     + Frontmatter
     + Introduction (§\ 1, pp.\ i--xliii)
