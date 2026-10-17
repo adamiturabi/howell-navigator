@@ -11,36 +11,36 @@ Here is the breakdown of the parts and sections into the individually bound fasc
 
 + Fascicule 1:
   + Frontmatter
-  + Introduction
+  + Introduction (§ 1)
   + Part\ 1: The noun (Chapters\ 1--4)
-    + §§\ 1--158
+    + §§\ 2--158
     + printed pp.\ 1--498
   + Notes
-    + printed pp.\ 1A--88A
+    + printed pp.\ [1A--88A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498/page/n672/mode/2up)
 + Fascicule 2:
   + Part\ 1: The noun (Chapters\ 5--6)
     + §§\ 159--233
     + printed pp.\ 499--861
   + Notes
-    + printed pp.\ 87A--134A
+    + printed pp.\ [87A--134A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book2_499-861/page/n397/mode/2up)
 + Fascicule 3:
   + Part 1: The noun (Chapters\ 7--11)
     + §§\ 234--312
     + printed pp.\ 862--1422
   + Notes
-    + printed pp.\ 181A--189A
+    + printed pp.\ [181A--189A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book3_862-1422/page/n622/mode/2up)
 + Fascicule 4:
   + Part 1: The noun (Chapters\ 8--17)
     + §§\ 313--401
     + printed pp.\ 1423--1813
   + Notes
-    + printed pp.\ 189A--223A
+    + printed pp.\ [189A--223A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813/page/n434/mode/2up)
 + Fascicule 5:
   + Part 2: The verb, and Part 3: The particle
     + §§\ 402--624
     + printed pp.\ 1--735
   + Notes
-    + printed pp.\ 1A--30A
+    + printed pp.\ [1A--30A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735/page/n344/mode/2up)
 + Fascicule 6:
   + Part 4: The common processes (Chapters\ 1--10)
     + §§\ 625--730A
@@ -52,15 +52,15 @@ Here is the breakdown of the parts and sections into the individually bound fasc
   + Appendix
     + printed pp.\ i--xxvii
   + Notes
-    + printed pp.\ 29A--181A
+    + printed pp.\ [29A--181A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book7_1663-1850/page/n216/mode/2up)
   + Index to references to the Quran
-    + printed pp.\ i--xxvii
+    + printed pp.\ [i--xxvii](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book7_1663-1850/page/n369/mode/2up)
   + Index of proper names
-    + printed pp.\ i--cxxxvi
+    + printed pp.\ [i--cxxxvi](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book7_1663-1850/page/n392/mode/2up)
   + Index of subjects
-    + printed pp.\ i--liii
+    + printed pp.\ [i--liii](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book7_1663-1850/page/n528/mode/2up)
   + Final additions and corrections
-    + printed pp.\ 1--9
+    + printed pp.\ [1--9](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book7_1663-1850/page/n581/mode/2up)
 
 For links to the individual sections, I build upon the work done by
 Aasim Iqbal
