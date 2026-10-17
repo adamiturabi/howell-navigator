@@ -11,7 +11,9 @@ The scanned PDFs are located at: <https://archive.org/details/howellarabicgramma
 For links to the individual sections, I build upon the work done by
 Aasim Iqbal
 ([جزاه الله خيرًا]{.ar}) published on his
-[site](https://revivearabic.blogspot.com/2016/03/grammar-classical-arabic-language-howell-arabicgrammar-pdf.html).
+[site](https://revivearabic.blogspot.com/2016/03/grammar-classical-arabic-language-howell-arabicgrammar-pdf.html)
+and hosted at
+<https://archive.org/details/AI2_reuploads2>.
 
 For an interesting read on Howell's methodology vis-a-vis contemporary trends in the Western study of Arabic grammar, see:
 
