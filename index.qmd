@@ -11,7 +11,9 @@ Here is the breakdown of the parts and sections into the individually bound fasc
 
 + Fascicule 1:
   + Frontmatter
-  + Introduction (§ 1)
+  + Introduction
+    + §\ 1
+    + printed pp.\ i--xliii
   + Part\ 1: The noun (Chapters\ 1--4)
     + §§\ 2--158
     + printed pp.\ 1--498
@@ -36,9 +38,12 @@ Here is the breakdown of the parts and sections into the individually bound fasc
   + Notes
     + printed pp.\ [189A--223A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813/page/n434/mode/2up)
 + Fascicule 5:
-  + Part 2: The verb, and Part 3: The particle
-    + §§\ 402--624
-    + printed pp.\ 1--735
+  + Part 2: The verb
+    + §§\ 402--496A
+    + printed pp.\ 1--282
+  + Part 3: The particle
+    + §§\ 497--624
+    + printed pp.\ 283--735
   + Notes
     + printed pp.\ [1A--30A](https://archive.org/details/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735/page/n344/mode/2up)
 + Fascicule 6:
