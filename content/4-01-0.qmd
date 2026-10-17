@@ -1,7 +1,7 @@
 # 1 Common processes in general (§\ 625) {.unnumbered}
 
 ```{=html}
-<iframe src="combined-toc.pdf#page=157" width="39%" height="900px"></iframe>
+<iframe src="https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n156/mode/2up" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe src="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n138/mode/1up" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

@@ -116,9 +116,11 @@ with open(toc_csv_filename, newline='') as toc_csv:
         title_section_str = '§' + title_section_str + '--' + section_end
 
       file.write(row['title'] + " (" + title_section_str + ") {.unnumbered}\n\n") 
+      toc_link = 'https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n' + str(int(row['toc_pagenum']) - 1) + '/mode/2up'
 
       iframe_str = '```{=html}\n'
-      iframe_str += '<iframe src="combined-toc.pdf#page=' + row['toc_pagenum'] + '" width="39%" height="900px"></iframe>\n'
+      #<iframe src="combined-toc.pdf#page=1" width="39%" height="900px"></iframe>
+      iframe_str += '<iframe src="' + toc_link + '" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
 
       if section_beg == section_end:
         # automatically open section

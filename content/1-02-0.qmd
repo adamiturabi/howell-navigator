@@ -1,7 +1,7 @@
 # 2 The generic noun (§\ 3) {.unnumbered}
 
 ```{=html}
-<iframe src="combined-toc.pdf#page=2" width="39%" height="900px"></iframe>
+<iframe src="https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n1/mode/2up" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe src="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n177/mode/1up" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 

@@ -1,7 +1,7 @@
 # ---The [و]{.ar} and [ي]{.ar} as [ف]{.ar}s (§§\ 699--702) {.unnumbered}
 
 ```{=html}
-<iframe src="combined-toc.pdf#page=229" width="39%" height="900px"></iframe>
+<iframe src="https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n228/mode/2up" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe srcdoc="<p><ul><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n818/mode/1up>§&nbsp699</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n834/mode/1up>§&nbsp700</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n835/mode/1up>§&nbsp701</a></li><li><a href=https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n839/mode/1up>§&nbsp702</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 ```
 
