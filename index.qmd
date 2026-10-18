@@ -81,3 +81,6 @@ It will open a chapter page with two frames:
 + Numbers in square brackets in running text, for example "[402]", are a cross-reference to that section number.
 + Howell's own opinions are within brackets.
 
+## To do
+
+Allow external linking via URL to a speciic embedded page within the site.
