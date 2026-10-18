@@ -59,6 +59,10 @@ For an interesting read on Howell's methodology vis-a-vis contemporary trends in
 + Jean-Patrick Guillaume, "Deux grammaires de l’arabe à contre-courant: A Grammar of the Classical Arabic Language de M.\ S. Howell et la Grammaire arabe composée d’après les sources primitives de D.\ Vernier," in _Documenter et décrire les langues d'Asie: Histoire et épistémologie_. 
   <https://books.openedition.org/shesl/10369?lang=en>
 
+Another interesting general read:
+
++ Carolyn G. Killean, "The development of western grammars of Arabic," _Journal of Near Eastern Studies_, vol.\ 43, no.\ 3, 1984. <https://doi.org/10.1086/373081>
+
 ## How to use this web-book
 
 In order to use this web-book, first navigate to the chapter from the sidebar on the left.
