@@ -133,10 +133,10 @@ with open(toc_csv_filename, newline='') as toc_csv:
         section_list_str = '<p><ul>'
         while True:
           curr_key = sec_pagenum_dict_keys[curr_key_idx]
-          section_list_str += '<li><a href='
+          section_list_str += '<li id="s' + curr_key + '"><a href="'
           section_list_str += get_section_url(curr_key)
           #section_list_str += 'https://archive.org/embed/howellarabicgrammar2013/howell-arabicgrammar-snap-book1_1-498#page/n132/mode/1up'
-          section_list_str += '>§&nbsp' + curr_key + '</a></li>'
+          section_list_str += '">§&nbsp' + curr_key + '</a></li>'
           if curr_key_idx == end_key_idx:
             break
           curr_key_idx += 1
@@ -144,7 +144,7 @@ with open(toc_csv_filename, newline='') as toc_csv:
         section_list_str += '</ul></p>'
         #file.write(section_list_str)
 
-        iframe_str += '<iframe srcdoc="' + section_list_str + '" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n'
+        iframe_str += """<iframe srcdoc='""" + section_list_str + """' width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>\n"""
 
       iframe_str += '```\n\n'
       file.write(iframe_str)
