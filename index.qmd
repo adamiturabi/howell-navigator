@@ -88,7 +88,7 @@ The URL for each chapter opens by default to:
 In order to cite a specific page within a chapter, append `?page=` followed by the page number to the URL.
 The page number is the one listed on the horizontal progress bar on archive.org.
 
-For example: <https://adamiturabi.github.io/howell-navigator/docs/content/1-01-0.html?page=180>
+For example: <https://adamiturabi.github.io/howell-navigator/content/1-03-0.html?page=179>
 
 There is no bounds checking, so if you have to make sure you're linking within the right chapter/book.
 
