@@ -65,6 +65,8 @@ Another interesting general read:
 
 ## How to use this web-book
 
+### Navigating
+
 In order to use this web-book, first navigate to the chapter from the sidebar on the left.
 It will open a chapter page with two frames:
 
@@ -76,11 +78,20 @@ It will open a chapter page with two frames:
       And click on the link for your desired section number to open it in that frame.
       In order to go back to the clickable section list, click the back button on your browser.
 
+### Citing a specific page
+
+The URL for each chapter opens by default to:
+
++ the first page of the chapter, if the chapter only one section
++ a clickable list sections contained in that chapter.
+
+In order to cite a specific page within a chapter, append `?page=` followed by the page number to the URL.
+The page number is the one listed on the horizontal progress bar on archive.org.
+
+For example: <https://adamiturabi.github.io/howell-navigator/docs/content/1-01-0.html?page=180>
+
 ## Notes regarding the text
 
 + Numbers in square brackets in running text, for example "[402]", are a cross-reference to that section number.
 + Howell's own opinions are within brackets.
 
-## To do
-
-Allow external linking via URL to a speciic embedded page within the site.

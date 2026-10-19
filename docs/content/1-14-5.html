@@ -783,7 +783,23 @@ ul.task-list li input[type="checkbox"] {
 
 
 <iframe src="https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n125/mode/2up" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
-<iframe srcdoc="<p><ul><li id=&quot;s351&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n317/mode/1up&quot;>§&amp;nbsp351</a></li><li id=&quot;s352&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n318/mode/1up&quot;>§&amp;nbsp352</a></li><li id=&quot;s353&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n322/mode/1up&quot;>§&amp;nbsp353</a></li><li id=&quot;s354&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n323/mode/1up&quot;>§&amp;nbsp354</a></li><li id=&quot;s355&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n324/mode/1up&quot;>§&amp;nbsp355</a></li><li id=&quot;s356&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n333/mode/1up&quot;>§&amp;nbsp356</a></li><li id=&quot;s357&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n337/mode/1up&quot;>§&amp;nbsp357</a></li><li id=&quot;s358&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n347/mode/1up&quot;>§&amp;nbsp358</a></li><li id=&quot;s359&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n349/mode/1up&quot;>§&amp;nbsp359</a></li><li id=&quot;s360&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n352/mode/1up&quot;>§&amp;nbsp360</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+<iframe id="ia-book-frame" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+<script>
+  // Parse the 'book_page' parameter from the current external website URL
+  const urlParams = new URLSearchParams(window.location.search);
+  const pageNum = urlParams.get('page');
+
+  if (pageNum) {
+
+    // Construct the target Archive.org embed URL with the specific page
+    const embedUrl = `https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n${pageNum}/mode/1up`;
+    // Set the iframe src
+    document.getElementById('ia-book-frame').src = embedUrl;
+  } else {
+    document.getElementById('ia-book-frame').srcdoc = '<p><ul><li id="s351"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n317/mode/1up">§&nbsp351</a></li><li id="s352"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n318/mode/1up">§&nbsp352</a></li><li id="s353"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n322/mode/1up">§&nbsp353</a></li><li id="s354"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n323/mode/1up">§&nbsp354</a></li><li id="s355"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n324/mode/1up">§&nbsp355</a></li><li id="s356"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n333/mode/1up">§&nbsp356</a></li><li id="s357"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n337/mode/1up">§&nbsp357</a></li><li id="s358"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n347/mode/1up">§&nbsp358</a></li><li id="s359"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n349/mode/1up">§&nbsp359</a></li><li id="s360"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book4_1423-1813#page/n352/mode/1up">§&nbsp360</a></li></ul></p>'
+  }
+</script>
 
 
 

@@ -2,6 +2,22 @@
 
 ```{=html}
 <iframe src="https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n148/mode/2up" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe srcdoc='<p><ul><li id="s538"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n505/mode/1up">§&nbsp538</a></li><li id="s539"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n524/mode/1up">§&nbsp539</a></li><li id="s540"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n538/mode/1up">§&nbsp540</a></li><li id="s541"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n556/mode/1up">§&nbsp541</a></li><li id="s542"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n556/mode/1up">§&nbsp542</a></li><li id="s543"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n558/mode/1up">§&nbsp543</a></li><li id="s544"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n574/mode/1up">§&nbsp544</a></li><li id="s545"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n575/mode/1up">§&nbsp545</a></li></ul></p>' width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe id="ia-book-frame" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<script>
+  // Parse the 'book_page' parameter from the current external website URL
+  const urlParams = new URLSearchParams(window.location.search);
+  const pageNum = urlParams.get('page');
+
+  if (pageNum) {
+
+    // Construct the target Archive.org embed URL with the specific page
+    const embedUrl = `https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n${pageNum}/mode/1up`;
+    // Set the iframe src
+    document.getElementById('ia-book-frame').src = embedUrl;
+  } else {
+    document.getElementById('ia-book-frame').srcdoc = '<p><ul><li id="s538"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n505/mode/1up">§&nbsp538</a></li><li id="s539"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n524/mode/1up">§&nbsp539</a></li><li id="s540"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n538/mode/1up">§&nbsp540</a></li><li id="s541"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n556/mode/1up">§&nbsp541</a></li><li id="s542"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n556/mode/1up">§&nbsp542</a></li><li id="s543"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n558/mode/1up">§&nbsp543</a></li><li id="s544"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n574/mode/1up">§&nbsp544</a></li><li id="s545"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n575/mode/1up">§&nbsp545</a></li></ul></p>'
+  }
+</script>
 ```
 

@@ -783,7 +783,23 @@ ul.task-list li input[type="checkbox"] {
 
 
 <iframe src="https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n155/mode/2up" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
-<iframe srcdoc="<p><ul><li id=&quot;s615&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n780/mode/1up&quot;>§&amp;nbsp615</a></li><li id=&quot;s616&quot;><a href=&quot;https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n785/mode/1up&quot;>§&amp;nbsp616</a></li></ul></p>" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+<iframe id="ia-book-frame" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
+
+<script>
+  // Parse the 'book_page' parameter from the current external website URL
+  const urlParams = new URLSearchParams(window.location.search);
+  const pageNum = urlParams.get('page');
+
+  if (pageNum) {
+
+    // Construct the target Archive.org embed URL with the specific page
+    const embedUrl = `https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n${pageNum}/mode/1up`;
+    // Set the iframe src
+    document.getElementById('ia-book-frame').src = embedUrl;
+  } else {
+    document.getElementById('ia-book-frame').srcdoc = '<p><ul><li id="s615"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n780/mode/1up">§&nbsp615</a></li><li id="s616"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book5_1-735#page/n785/mode/1up">§&nbsp616</a></li></ul></p>'
+  }
+</script>
 
 
 

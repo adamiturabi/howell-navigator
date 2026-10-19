@@ -2,6 +2,22 @@
 
 ```{=html}
 <iframe src="https://archive.org/embed/AI2_reuploads2/combined%20TOC%20Howell%20Arabic/page/n181/mode/2up" width="39%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<iframe srcdoc='<p><ul><li id="s663"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n390/mode/1up">§&nbsp663</a></li><li id="s664"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n426/mode/1up">§&nbsp664</a></li><li id="s665"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n441/mode/1up">§&nbsp665</a></li><li id="s666"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n445/mode/1up">§&nbsp666</a></li></ul></p>' width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe id="ia-book-frame" width="59%" height="900px" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<script>
+  // Parse the 'book_page' parameter from the current external website URL
+  const urlParams = new URLSearchParams(window.location.search);
+  const pageNum = urlParams.get('page');
+
+  if (pageNum) {
+
+    // Construct the target Archive.org embed URL with the specific page
+    const embedUrl = `https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n${pageNum}/mode/1up`;
+    // Set the iframe src
+    document.getElementById('ia-book-frame').src = embedUrl;
+  } else {
+    document.getElementById('ia-book-frame').srcdoc = '<p><ul><li id="s663"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n390/mode/1up">§&nbsp663</a></li><li id="s664"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n426/mode/1up">§&nbsp664</a></li><li id="s665"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n441/mode/1up">§&nbsp665</a></li><li id="s666"><a href="https://archive.org/stream/howellarabicgrammar2013/howell-arabicgrammar-snap-book6_736-1662#page/n445/mode/1up">§&nbsp666</a></li></ul></p>'
+  }
+</script>
 ```
 
