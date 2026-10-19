@@ -90,6 +90,8 @@ The page number is the one listed on the horizontal progress bar on archive.org.
 
 For example: <https://adamiturabi.github.io/howell-navigator/docs/content/1-01-0.html?page=180>
 
+There is no bounds checking, so if you have to make sure you're linking within the right chapter/book.
+
 ## Notes regarding the text
 
 + Numbers in square brackets in running text, for example "[402]", are a cross-reference to that section number.
