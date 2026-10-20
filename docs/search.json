@@ -34,7 +34,7 @@
     "href": "index.html#other-high-quality-scans-and-ocr",
     "title": "Howell’s A Grammar of the Classical Arabic Language",
     "section": "Other high quality scans and OCR",
-    "text": "Other high quality scans and OCR\n\nBook 1: https://archive.org/details/dli.ernet.238520\nBook 2: https://archive.org/details/in.ernet.dli.2015.7002\nBook 3:\nBook 4: https://archive.org/details/grammarofclassic00howeuoft, https://archive.org/details/in.ernet.dli.2015.7003\nBook 5: https://archive.org/details/p2grammarofclass00howeuoft\nBook 6: https://archive.org/details/p1grammarofclass04howeuoft\nBook 7: https://archive.org/details/p2grammarofclass04howeuoft\n\nMaybe try running Tesseract OCR (with eng+ara language tabs), or a cloud OCR to digitize.",
+    "text": "Other high quality scans and OCR\n\nBook 1: https://archive.org/details/dli.ernet.238520\nBook 2: https://archive.org/details/in.ernet.dli.2015.7002\nBook 3:\nBook 4: https://archive.org/details/grammarofclassic00howeuoft, https://archive.org/details/in.ernet.dli.2015.7003\nBook 5: https://archive.org/details/p2grammarofclass00howeuoft\nBook 6: https://archive.org/details/p1grammarofclass04howeuoft\nBook 7: https://archive.org/details/p2grammarofclass04howeuoft\n\nMaybe try running Tesseract OCR (with eng+ara language tags), or a cloud OCR to digitize.",
     "crumbs": [
       "About this project"
     ]
