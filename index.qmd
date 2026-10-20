@@ -96,3 +96,15 @@ There is no bounds checking, so you'll have to make sure you're linking within t
 + Numbers in square brackets in running text, for example "[402]", are a cross-reference to that section number.
 + Howell's own opinions are within brackets.
 
+## Other high quality scans and OCR
+
++ Book 1: <https://archive.org/details/dli.ernet.238520>
++ Book 2: <https://archive.org/details/in.ernet.dli.2015.7002>
++ Book 3: 
++ Book 4: <https://archive.org/details/grammarofclassic00howeuoft>, <https://archive.org/details/in.ernet.dli.2015.7003>
++ Book 5: <https://archive.org/details/p2grammarofclass00howeuoft>
++ Book 6: <https://archive.org/details/p1grammarofclass04howeuoft>
++ Book 7: <https://archive.org/details/p2grammarofclass04howeuoft>
+
+Maybe try running Tesseract OCR (with eng+ara language tabs), or a cloud OCR to digitize.
+
