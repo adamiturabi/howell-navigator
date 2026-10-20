@@ -106,5 +106,5 @@ There is no bounds checking, so you'll have to make sure you're linking within t
 + Book 6: <https://archive.org/details/p1grammarofclass04howeuoft>
 + Book 7: <https://archive.org/details/p2grammarofclass04howeuoft>
 
-Maybe try running Tesseract OCR (with eng+ara language tabs), or a cloud OCR to digitize.
+Maybe try running Tesseract OCR (with eng+ara language tags), or a cloud OCR to digitize.
 
