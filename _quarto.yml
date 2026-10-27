@@ -30,6 +30,7 @@ book:
   search: false
   sidebar:
     collapse-level: 1
+  favicon: srchtml/favicon-32x32.png
 
 website:
   reader-mode: true
